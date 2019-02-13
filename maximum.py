@@ -24,9 +24,9 @@ print("total number of string =",string.count(str))
 list=[666,23,4445,32,54,65,767,88,9,1,77]
 print("the maximun number of the list is=",max(list))
 print("the minimum number of the list is=",min(list))
-'''
+
 
 st=input("what string you want to write")
 print(st.upper())
 st=st.replace(st,input("replacing string"))
-print(st.upper())
+print(st.upper())'''
