@@ -1,4 +1,5 @@
 #program for clculator
+'''
 val1 = int(input("enter the first value\n"))
 val2 = int(input("enter the second value"))
 print("MENU \n1.option +\n2.option -\n3.option *\n4.option /\n5.option % \n 6.option quit")
@@ -50,7 +51,7 @@ year=int(input("enter year"))
 if year%4==0:
     print("it is leap year")
 else:
-    print("not a leap year")
+    print("not a leap year")'''
 
 
 #program for entering name ,tel and age
